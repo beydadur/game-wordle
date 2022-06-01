@@ -102,25 +102,3 @@ while rem_attempt > 0:
             check_word = [guessed_word]
         for i in range(5):
             check_word.append(check_word[0][i])
-
-# beyda=int(input("enter a number"))
-# if beyda<=10:
-#     for i in range(beyda,11):
-#         umut=i**2
-#         print(umut)
-# elif beyda >10 and beyda<=15:
-#     for i in range (beyda, 16):
-#         sinan=i**3
-#         print(sinan)
-#
-# beyda= int(input("sayı girer misin aşkıımmm: "))
-# if beyda>=10 and beyda <=15:
-#     for i in range (1,11):
-#         yasin=i**2
-#         print(yasin)
-#     for i in range (11, beyda):
-#         sinan=i**3
-#         print(sinan)
-# else:
-#     print("tekrar dene yavrummmm :*")
-
