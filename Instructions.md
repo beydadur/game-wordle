@@ -1,7 +1,4 @@
-# PS2: Wordle
-## Deadline: April, 3th at 23:00
-## Important Note: 
-This is an individual assignment, not a group work. You can discuss with each other but you are supposed to work on the code on your own.
+# Wordle
 ## Introduction
 
 In this problem set, you will implement **WORDLE**, an online word-puzzle game that is becoming popular. You can play the game from  [this link](https://www.nytimes.com/games/wordle/index.html) to learn the logic, it is fun! Here we have summarize the game rules for you:
